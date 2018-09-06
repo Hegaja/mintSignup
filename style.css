@@ -1,0 +1,24 @@
+body {
+  background: rgb(236, 238, 241);
+}
+
+header {
+  text-align: center;
+  margin-top: 5%;
+}
+.signupArea {
+  text-align: center;
+  background: #fff;
+  padding: 1% 1% 0 1%;
+  display: table;
+
+  margin: 0 auto;
+
+  border-style: solid;
+  border-color: rgb(199, 199, 199);
+  border-width: 1px;
+}
+
+footer {
+    text-align: center;
+}
